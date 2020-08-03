@@ -1,5 +1,5 @@
 {
-    "name": "unocha/ocha_integrations",
+    "name": "unocha/ocha_media_content",
     "type": "drupal-module",
     "license": "GPL-2.0-only",
     "require": {
