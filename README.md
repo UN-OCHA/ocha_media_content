@@ -3,13 +3,11 @@
 ## Core Modules
   - breakpoint
   - ckeditor
-  - editor
   - media
   - media_library
   - responsive_image
 
 ## Contrib Modules
-  - fitvids
   - paragraphs
 
 ### ocha_media_content
