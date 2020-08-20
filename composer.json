@@ -4,7 +4,6 @@
     "license": "GPL-2.0-only",
     "require": {
         "composer/installers": "^1.2",
-        "drupal/fitvids": "^1.1",
         "drupal/paragraphs": "^1.12"
     },
     "require-dev": {
