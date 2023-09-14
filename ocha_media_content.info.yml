@@ -3,12 +3,12 @@ description: Paragraph types for Media image and video content, using Responsive
 package: OCHA Media Content
 type: module
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 
 # Modules to install.
 install:
   - breakpoint
-  - ckeditor
+  - ckeditor5
   - editor
   - media
   - media_library
@@ -19,7 +19,7 @@ install:
 # Note that any dependencies of the modules listed here will be installed automatically.
 dependencies:
   - breakpoint
-  - ckeditor
+  - ckeditor5
   - media
   - media_library
   - responsive_image

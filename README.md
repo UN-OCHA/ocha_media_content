@@ -2,7 +2,7 @@
 
 ## Core Modules
   - breakpoint
-  - ckeditor
+  - ckeditor5
   - media
   - media_library
   - responsive_image
